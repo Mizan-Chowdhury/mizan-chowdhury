@@ -1,3 +1,5 @@
+![Mizan Chowdhury](https://github.com/Mizan-Chowdhury/mizan-chowdhury/assets/138617483/6285b3a7-da82-4187-81e2-98c6c4dad887)
+
 ### Hi 👋, I'm Mizan Chowdhury
 
 #### I am a MERN Stack Developer from Bangladesh, passionate and dedicated to my work. I have a keen interest in learning new technologies and continuously developing my skills.
