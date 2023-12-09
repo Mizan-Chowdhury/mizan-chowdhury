@@ -23,15 +23,13 @@ I possess expertise in HTML, CSS, and JavaScript, and I am proficient in buildin
 <a href="https://fb.com/mizan1034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizan1034" height="30" width="40" /></a>
 </p>
 
-
-
-
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan-chowdhury&show_icons=true&locale=en&layout=compact" alt="mizan-chowdhury" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizan-chowdhury&show_icons=true&locale=en" alt="mizan-chowdhury" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizan-chowdhury&" alt="mizan-chowdhury" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizan-chowdhury)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="mizan-chowdhury" /> </p>
 
