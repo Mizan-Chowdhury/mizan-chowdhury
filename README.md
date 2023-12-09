@@ -1,4 +1,4 @@
-![Mizan Chowdhury (1)](https://github.com/Mizan-Chowdhury/mizan-chowdhury/assets/138617483/80e8fd8b-0a68-43ce-91ab-ea3a39160f3d)
+![Mizan Chowdhury](https://github.com/Mizan-Chowdhury/mizan-chowdhury/assets/138617483/015b2048-fa12-484e-963d-e7afdfebd99f)
 
 ### Hi 👋, I'm Mizan Chowdhury
 
